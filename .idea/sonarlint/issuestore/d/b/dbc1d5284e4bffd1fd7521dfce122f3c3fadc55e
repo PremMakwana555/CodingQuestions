@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÕüïúÿÿÿÿ
+O
+java:S1854%"9Remove this useless assignment to local variable "start".(¸ûÒ¦
+V
+java:S18540"9Remove this useless assignment to local variable "start".(¸ûÒ¦8òéòÍ¢0
+E
+java:S1481"*Remove this unused "start" local variable.(¡Ò¾üÿÿÿÿ
